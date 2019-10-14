@@ -4,7 +4,7 @@ This project is a mobile app for mountaineers to give them the possibility to ke
 The motivation for this project is to practice mobile app development with React Native.
 
 ## Screenshots
-<img src="screenshots/MountainBook_1.jpg" width=200> <img src="screenshots/MountainBook_2.jpg" width=200> <img src="screenshots/MountainBook_3.jpg" width=200> <img src="screenshots/MountainBook_4.jpg" width=200>
+<img src="screenshots/MountainBook_1_2.jpg" width=200> <img src="screenshots/MountainBook_2_2.jpg" width=200> <img src="screenshots/MountainBook_3_2.jpg" width=200> <img src="screenshots/MountainBook_4_2.jpg" width=200>
 
 ## Technologies
 * JavaScript
